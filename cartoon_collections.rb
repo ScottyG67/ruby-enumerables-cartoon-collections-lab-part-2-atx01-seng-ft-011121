@@ -31,6 +31,4 @@ def find_valid_calls(planeteer_calls)
       element==item
     end
   end
-    
-  end
 end
